@@ -1,2 +1,2 @@
 # Photoshop_Script_collection
-A personal collection of Photoshop scripts for convenience
+feel free to download and edit for your liking
